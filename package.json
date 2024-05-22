@@ -14,5 +14,14 @@
   "dependencies": {
     "dotenv": "^16.4.2",
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshipriyanshu/Backend-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshipriyanshu/Backend-/issues"
+  },
+  "homepage": "https://github.com/joshipriyanshu/Backend-#readme"
 }
